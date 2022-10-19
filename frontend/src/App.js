@@ -11,13 +11,13 @@ import Room from './pages/Room'
 function App() {
   return (
     <div className="App">
-      <Route path='/' component={Home} exact />
+      <Route path='/Bind' component={Home} exact />
       <Protect>
-        <Route path='/HealthWorker' component={healthWorker} exact />      
-        <Route path='/admin' component={Admin} exact /> 
-        <Route path='/doctor' component={Doctor} exact/>  
-        <Route path='/info' component={FamilyCardsView} exact />
-        <Route path='/room' component={Room}/>
+        <Route path='/Bind/HealthWorker' component={healthWorker} exact />      
+        <Route path='/Bind/admin' component={Admin} exact /> 
+        <Route path='/Bind/doctor' component={Doctor} exact/>  
+        <Route path='/Bind/info' component={FamilyCardsView} exact />
+        <Route path='/Bind/room' component={Room}/>
       </Protect>
 
     </div>
