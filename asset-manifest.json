@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/telmed/static/css/main.4a488f87.css",
-    "main.js": "/telmed/static/js/main.674db294.js",
-    "static/js/236.4e12adb1.chunk.js": "/telmed/static/js/236.4e12adb1.chunk.js",
-    "static/js/703.73940452.chunk.js": "/telmed/static/js/703.73940452.chunk.js",
-    "static/js/598.dd7de441.chunk.js": "/telmed/static/js/598.dd7de441.chunk.js",
-    "static/media/Doctor.png": "/telmed/static/media/Doctor.26cdbbe74ce8b63fe135.png",
-    "static/media/Logo.png": "/telmed/static/media/Logo.3c36a579f27aadcdc3b6.png",
-    "index.html": "/telmed/index.html",
-    "main.4a488f87.css.map": "/telmed/static/css/main.4a488f87.css.map",
-    "main.674db294.js.map": "/telmed/static/js/main.674db294.js.map",
-    "236.4e12adb1.chunk.js.map": "/telmed/static/js/236.4e12adb1.chunk.js.map",
-    "703.73940452.chunk.js.map": "/telmed/static/js/703.73940452.chunk.js.map",
-    "598.dd7de441.chunk.js.map": "/telmed/static/js/598.dd7de441.chunk.js.map"
+    "main.css": "/Bind/static/css/main.4a488f87.css",
+    "main.js": "/Bind/static/js/main.7c9b3a32.js",
+    "static/js/236.4e12adb1.chunk.js": "/Bind/static/js/236.4e12adb1.chunk.js",
+    "static/js/703.73940452.chunk.js": "/Bind/static/js/703.73940452.chunk.js",
+    "static/js/598.dd7de441.chunk.js": "/Bind/static/js/598.dd7de441.chunk.js",
+    "static/media/Doctor.png": "/Bind/static/media/Doctor.26cdbbe74ce8b63fe135.png",
+    "static/media/Logo.png": "/Bind/static/media/Logo.3c36a579f27aadcdc3b6.png",
+    "index.html": "/Bind/index.html",
+    "main.4a488f87.css.map": "/Bind/static/css/main.4a488f87.css.map",
+    "main.7c9b3a32.js.map": "/Bind/static/js/main.7c9b3a32.js.map",
+    "236.4e12adb1.chunk.js.map": "/Bind/static/js/236.4e12adb1.chunk.js.map",
+    "703.73940452.chunk.js.map": "/Bind/static/js/703.73940452.chunk.js.map",
+    "598.dd7de441.chunk.js.map": "/Bind/static/js/598.dd7de441.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a488f87.css",
-    "static/js/main.674db294.js"
+    "static/js/main.7c9b3a32.js"
   ]
 }
