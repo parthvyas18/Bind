@@ -1,0 +1,19 @@
+.Mui-completed .MuiStepConnector-line{
+    border-color: #2B7A78 !important;
+    border-width: 2px !important; 
+}
+.MuiStepper-root{
+    margin-top: 9vh;
+}
+.MuiFormControlLabel-root{
+    margin-right:4vw !important;
+}
+.MuiTableCell-root{
+    width:18vw !important;
+}
+.MuiTableCell-head{
+    background-color: rgb(175, 4, 175);
+}
+.test{
+    background: linear-gradient(#dc2dec 80%,#e9e628 10%);
+}
